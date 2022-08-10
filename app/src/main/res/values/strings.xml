@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GameOfLife</string>
+    <string name="title">Conway\'s Game of Life</string>
+    <string name="settings">Settings</string>
+    <string name="seed">SEED</string>
+    <string name="dead_cell_color">Dead cell color</string>
+    <string name="alive_cell_color">Alive cell color</string>
+    <string name="text_color">Text color</string>
+    <string name="start">Start</string>
+    <string name="default_seed">1</string>
+    <string name="back">Back</string>
+</resources>
